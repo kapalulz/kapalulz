@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![]http://okashuba.link/images/aws-certified-cloud-practitioner1.png
 <!--
 **kapalulz/kapalulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
