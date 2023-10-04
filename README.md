@@ -1,2 +1,3 @@
 ### Hi there 👋
-![screenshot](https://cdn.discordapp.com/attachments/359470187088576514/1158941025302229033/image.png?ex=651e1370&is=651cc1f0&hm=f564e1d65b4e4d858c8041e7f51c9c85d63888f177ff732560050c31fd358158&)
+![screenshot](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+![screenshot](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
