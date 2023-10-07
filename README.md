@@ -5,4 +5,7 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kapalulz)
-[Join our Discord Server](https://discord.gg/8bCveNxEMK)
+[![Discord](https://img.shields.io/discord/228612594863308800/802171830458253342?label=Discord&logo=discord&logoColor=white)](https://discord.gg/228612594863308800/802171830458253342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/kapalulz//)
+[![Telegram](https://img.shields.io/badge/Telegram-YourUsername-blue?logo=telegram&logoColor=white)](https://t.me/@kapalulz)
+
