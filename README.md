@@ -7,7 +7,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapalulz/)
 [![Telegram](https://img.shields.io/badge/Telegram-kapalulz-blue?logo=telegram&logoColor=white)](https://t.me/kapalulz)
 </div>
-
-![Endpoint Badge](https://img.shields.io/endpoint?url=http%3A%2F%2Fokashuba.link%2F&style=social&logo=bitcoin&label=Website)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=kapalulz) --->
 
