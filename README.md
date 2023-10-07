@@ -8,6 +8,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-kapalulz-blue?logo=telegram&logoColor=white)](https://t.me/kapalulz)
 </div>
 
-https://img.shields.io/endpoint?url=http%3A%2F%2Fokashuba.link%2F
+![Endpoint Badge](https://img.shields.io/endpoint?url=http%3A%2F%2Fokashuba.link%2F)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=kapalulz) --->
 
