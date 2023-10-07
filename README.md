@@ -7,7 +7,7 @@
 
 [![Discord](https://img.shields.io/discord/228612594863308800?label=Discord&logo=discord&logoColor=white)](https://discord.gg/228612594863308800)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapalulz/)
-[![Telegram](https://img.shields.io/badge/Telegram-kapalulz-blue?logo=telegram&logoColor=white)](https://t.me/@kapalulz)
+[![Telegram](https://img.shields.io/badge/Telegram-kapalulz-blue?logo=telegram&logoColor=white)](https://t.me/kapalulz)
 
 
 </div>
