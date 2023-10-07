@@ -5,3 +5,4 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kapalulz)
+[Join our Discord Server](https://discord.gg/8bCveNxEMK)
